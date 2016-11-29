@@ -1,5 +1,5 @@
 # php-apk-packer
-Using PHP to create APK channel packaging
+Using PHP to create APK channel package
 
 # Exp
 
